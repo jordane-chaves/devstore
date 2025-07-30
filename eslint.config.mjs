@@ -22,6 +22,7 @@ const eslintConfig = [
     },
     rules: {
       'simple-import-sort/imports': 'error',
+      '@typescript-eslint/no-namespace': 'off',
     },
   },
 ]
