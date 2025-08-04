@@ -28,6 +28,9 @@ Neste projeto exploramos as convenções e funcionalidades avançadas do Next.js
   <img alt="Visualização da aplicação" src="./.github/preview.png" />
 </p>
 
+> [!NOTE]
+> 🔗 Link da aplicação em produção: https://devstore-psi-ten.vercel.app
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
